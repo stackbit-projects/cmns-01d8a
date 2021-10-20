@@ -2,7 +2,7 @@
 title: Dembélé impazzito completamente
 excerpt: "Ousmane\_#Dembélé\_non ha ancora dato una risposta definitiva alla dirigenza del\_#Barcelona\_per quanto riguarda il rinnovo del contratto:\_#Juventus,\_#ManchesterUnited\_e\_#Liverpool\_pronte ad accoglierlo a zero in caso di fumata nera"
 date: '2016-08-28'
-thumb_img_path: images/art.svg
+thumb_img_path: images/246863075_665035357768041_7532045369171445572_n.jpg
 thumb_img_alt: Geometric pattern
 seo:
   title: Sed feugiat et mauris adipiscing dolor

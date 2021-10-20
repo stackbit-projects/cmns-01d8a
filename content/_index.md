@@ -44,10 +44,6 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-  - title: pubblicità quando arriveranno
-    section_id: ads
-    image_alt: lorem-ipsum
-    type: section_content
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme

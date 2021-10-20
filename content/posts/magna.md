@@ -3,7 +3,7 @@ title: Salah il pazzo
 subtitle: A cautionary tale about Magna etiam
 excerpt: "Per rinnovare il proprio contratto con il\_#Liverpool\_Mohamed\_#Salah, attraverso il suo entourage, avrebbe chiesto un ingaggio da 400mila sterline a settimana (quasi 25 milioni di euro a stagione)"
 date: '2016-09-04'
-thumb_img_path: images/art.svg
+thumb_img_path: images/246339098_1469432790099271_3654807955134649256_n.jpg
 thumb_img_alt: Geometric pattern
 seo:
   title: Magna etiam sed lorem ipsum dolor amet

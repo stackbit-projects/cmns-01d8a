@@ -9,7 +9,7 @@ sections:
     image: images/cmns-643fb9dc.jpg
     image_alt: Author avatar
   - title: Feed Notizie
-    section_id: lorem-ipsum
+    section_id: Bacheca
     image_alt: lorem-ipsum
     content: |
       ## Bacheca

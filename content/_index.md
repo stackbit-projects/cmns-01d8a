@@ -1,6 +1,21 @@
 ---
 title: Home
 sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
   - section_id: hero
     type: section_hero
     title: Calciomercato Non Stop
@@ -40,21 +55,6 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: section_content
 seo:
   title: Stackbit Vanilla Theme
   description: The preview of the Vanilla theme

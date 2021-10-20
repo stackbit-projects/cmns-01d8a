@@ -46,7 +46,7 @@ sections:
       ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
-  - title: lorem-ipsum
+  - title: pubblicità quando arriveranno
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     type: section_content

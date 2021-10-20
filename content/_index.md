@@ -12,9 +12,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ## Notizie
-
-      Qui puoi trovare le notizie più recenti nel mondo del calcio
+      ## Bacheca
     type: section_content
   - title: Text
     section_id: intro

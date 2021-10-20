@@ -1,6 +1,13 @@
 ---
 title: Home
 sections:
+  - section_id: hero
+    type: section_hero
+    title: Calciomercato Non Stop
+    subtitle: |
+      ### Notizie brevi, chiare e precise sul calciomercato&#xA;&#xA;
+    image: images/cmns-643fb9dc.jpg
+    image_alt: Author avatar
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
@@ -16,13 +23,6 @@ sections:
 
       - dolor sit amet
     type: section_content
-  - section_id: hero
-    type: section_hero
-    title: Calciomercato Non Stop
-    subtitle: |
-      ### Notizie brevi, chiare e precise sul calciomercato&#xA;&#xA;
-    image: images/cmns-643fb9dc.jpg
-    image_alt: Author avatar
   - title: Text
     section_id: intro
     type: section_content

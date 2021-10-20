@@ -1,7 +1,7 @@
 html {
     height: 100%;
     box-sizing: border-box;
-    //background: rgba(24, 236, 88, 0.363);
+    background: rgba(24, 236, 88, 0.363);
 }
 
 *,
@@ -41,7 +41,7 @@ hr {
     width: $xl;
     margin: 1rem auto;
     border: none;
-    background: rgba(0, 0, 0, 1);
+    background: rgba(0, 0, 0, .1);
     height: 1px;
 }
 

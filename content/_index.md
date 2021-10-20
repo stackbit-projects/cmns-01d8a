@@ -8,7 +8,7 @@ sections:
       ### Notizie brevi, chiare e precise sul calciomercato&#xA;&#xA;
     image: images/cmns-643fb9dc.jpg
     image_alt: Author avatar
-  - title: lorem-ipsum
+  - title: Feed Notizie
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |

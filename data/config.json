@@ -53,5 +53,6 @@
             }
         ]
     },
-    "domain": "https://cmns-01d8a.netlify.app"
+    "domain": "https://cmns-01d8a.netlify.app",
+    "favicon": "images/cmns-2de1809d.jpg"
 }

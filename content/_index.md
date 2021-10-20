@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Calciomercato Non Stop
+    title: Titolo
     subtitle: |
       ### Notizie brevi, chiare e precise sul calciomercato&#xA;&#xA;
     image: images/cmns-643fb9dc.jpg

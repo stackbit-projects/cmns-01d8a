@@ -6,7 +6,7 @@ sections:
     title: Calciomercato Non Stop
     subtitle: |
       ### Notizie brevi, chiare e precise sul calciomercato&#xA;&#xA;
-    image: images/cmns.jpg
+    image: images/cmns-643fb9dc.jpg
     image_alt: Author avatar
   - title: Text
     section_id: intro

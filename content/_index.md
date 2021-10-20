@@ -10,7 +10,6 @@ sections:
     image_alt: Author avatar
   - title: Bacheca
     section_id: Bacheca
-    image_alt: lorem-ipsum
     content: |
       ## Bacheca
     type: section_content

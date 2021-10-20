@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Titolo
     type: section_hero
     title: Calciomercato Non Stop
     subtitle: |

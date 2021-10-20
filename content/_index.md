@@ -47,7 +47,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
   - title: pubblicità quando arriveranno
-    section_id: lorem-ipsum
+    section_id: ads
     image_alt: lorem-ipsum
     type: section_content
 seo:

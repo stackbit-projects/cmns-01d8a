@@ -1,5 +1,5 @@
 ---
-title: Salah il pazzo
+title: dadaida
 subtitle: A cautionary tale about Magna etiam
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern

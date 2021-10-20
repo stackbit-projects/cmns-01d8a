@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Calcio Mercato Non Stop
+    title: Calciomercato Non Stop
     subtitle: '### This is a super-cool hero subhead.'
     image: images/avatar.png
     image_alt: Author avatar
